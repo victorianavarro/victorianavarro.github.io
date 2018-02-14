@@ -4,3 +4,8 @@ plugins:
   - jekyll-coffeescript
   - jekyll-assets
   - another-jekyll-plugin
+
+# Activate a theme
+theme: minima
+remote_theme: benbalter/retlab
+
