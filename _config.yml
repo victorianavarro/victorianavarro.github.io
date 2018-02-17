@@ -1,10 +1,6 @@
 # General Jekyll Config
-highlighter:rogue
-name:Victoria N
-description: Victoria's Portfolio
-url: https://vnf89.github.io/
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+title: Victoria
+layout: default
 
 
 # This will require each of these plugins automatically.
