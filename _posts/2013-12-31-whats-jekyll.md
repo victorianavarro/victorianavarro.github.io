@@ -4,7 +4,9 @@ title: Congratulations Card
 ---
 
 
-[![N|Solid](https://flic.kr/p/24wSmQk)](https://github.com/victorianavarro/congratulationsCardApp)
+[![alt text][image]][hyperlink]
+
+  [hyperlink]: https://github.com/victorianavarro/congratulationsCardApp
+  [image]: https://github.com/victorianavarro/congratulationsCardApp (tooltip)
 
 
-Find out more by [visiting the project on GitHub](https://github.com/victorianavarro/congratulationsCardApp).
