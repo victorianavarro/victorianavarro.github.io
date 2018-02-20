@@ -1,6 +1,18 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+
 # General Jekyll Config
-title: Victoria
-layout: default
+title: 'Victoria N.' 
+tagline: 'Portfolio'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://victorianavarro@github.io
+baseurl:             '/'
+paginate:            5
+
 
 
 # This will require each of these plugins automatically.
@@ -10,7 +22,4 @@ plugins:
   - jekyll-assets
   - another-jekyll-plugin
 
-# Activate a theme
-theme: minima
-remote_theme: benbalter/retlab
 
