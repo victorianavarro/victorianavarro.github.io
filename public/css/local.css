@@ -1,0 +1,33 @@
+/*
+ * Projects
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.project {
+  margin-bottom: 4em;
+  width:240px;
+  height:240px;
+  float:left;
+}
+
+/* Blog post or page title */
+.project-title,
+.project-title a {
+  color: #303030;
+}
+
+.project-title {
+  margin-top: 0;
+}
+
+/* Meta data line below post title */
+.project-date {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #9a9a9a;
+}
+
+
