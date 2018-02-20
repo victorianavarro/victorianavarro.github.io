@@ -6,7 +6,7 @@ title: Congratulations Card
 
 [![alt text][image]][hyperlink]
 
-  [hyperlink]: https://flic.kr/p/24wSmQk
-  [image]: https://github.com/victorianavarro/congratulationsCardApp (tooltip)
+  [hyperlink]: https://github.com/victorianavarro/congratulationsCardApp 
+  [image]: https://flic.kr/p/24wSmQk (tooltip)
 
 
